@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# File log
+*.log
+
+# Konfigurasi IDE/Editor
+.vscode/
+.idea/
